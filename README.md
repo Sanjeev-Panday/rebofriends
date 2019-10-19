@@ -1,4 +1,4 @@
-This project is created as part of Udemy course ## The Complete Junior to Senior Web Developer Roadmap (2019)
+## React Project
 
 ## Available Scripts
 
