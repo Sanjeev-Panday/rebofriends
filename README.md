@@ -1,11 +1,8 @@
 ## React Project
 
-1. Clone this repo
-2. Run npm install
-3. Run npm start
-
-In the project directory, you can run:
-
+### `Clone this repo`
+### `Run npm install`
+In the project directory (robofriends), you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br />
