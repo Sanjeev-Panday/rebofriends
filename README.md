@@ -1,7 +1,7 @@
 ## React Project
 
 1. `Clone this repo`
-2. `Run npm install`
+2. `Run npm install`</br>
 In the project directory (robofriends), you can run:
 3. `npm start`
 
